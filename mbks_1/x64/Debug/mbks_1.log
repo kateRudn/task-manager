@@ -1,0 +1,5 @@
+﻿  dialog.cpp
+c:\users\user\desktop\mbks_1\mbks_1\dialog.cpp(82): warning C4189: column: локальная переменная инициализирована, но не использована
+c:\users\user\desktop\mbks_1\mbks_1\dialog.cpp(85): warning C4101: aceSid: неиспользованная локальная переменная
+c:\users\user\desktop\mbks_1\mbks_1\dialog.cpp(86): warning C4101: pAce: неиспользованная локальная переменная
+  mbks_1.vcxproj -> C:\Users\USER\Desktop\MBKS_1\mbks_1\debug\mbks_1.exe
